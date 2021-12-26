@@ -1,7 +1,8 @@
 {
   "packs": [
     "FRIDAY_234357406_1.json",
-    "ExpressiveCatNana.json"
+    "ExpressiveCatNana.json",
+    "mis_brands.json"
   ],
   "homeserver_url": "https://matrix.tokhmi.xyz"
 }
